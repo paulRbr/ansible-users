@@ -1,0 +1,6 @@
+---
+# Each user needs
+#   name: john
+#   groups: admins,developers
+#   key: "{{ lookup('file', 'public_keys/john.pub') }}"
+users: []

@@ -1,6 +1,8 @@
 Users - Ansible role
 =========
 
+[![Build Status](https://travis-ci.org/paulRbr/ansible-users.svg?branch=master)](https://travis-ci.org/paulRbr/ansible-users)
+
 This role is a very simple machine user management role.
 
 No dependencies and no requirements.
@@ -38,4 +40,4 @@ Copy it in your ansible configuration directory and start using it via `make hel
 License
 -------
 
-MIT
+GPLv3
